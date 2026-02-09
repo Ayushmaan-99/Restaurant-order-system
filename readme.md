@@ -119,18 +119,6 @@ All prices are in **Indian Rupees (₹)**
 - Python 3.x
 - No external dependencies required
 
-### Running the Program
-
-1. **Navigate to the project directory**:
-   ```cmd
-   cd "a:\Project\Restraunt order code"
-   ```
-
-2. **Run the program**:
-   ```cmd
-   python Main.py
-   ```
-
 ## 📝 Sample Output
 
 ```
